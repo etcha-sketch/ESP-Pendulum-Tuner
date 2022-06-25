@@ -1,3 +1,7 @@
+# MicroPython ESP Pendulum Tuner
+# Author: Etcha-Sketch
+# https://github.com/etcha-sketch
+
 # This file is executed on every boot (including wake-boot from deepsleep)
 #import esp
 #esp.osdebug(None)

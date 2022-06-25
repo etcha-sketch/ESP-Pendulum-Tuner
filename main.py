@@ -1,3 +1,7 @@
+# MicroPython ESP Pendulum Tuner
+# Author: Etcha-Sketch
+# https://github.com/etcha-sketch
+
 # Import required libraries
 from machine import Pin
 import time
